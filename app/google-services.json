@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666582898482",
+    "project_id": "bookstore-2bcab",
+    "storage_bucket": "bookstore-2bcab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666582898482:android:4c43232549fcb8bcc8a92b",
+        "android_client_info": {
+          "package_name": "com.diana.bookstoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8O_pWK0tt5Q-BhG1FRbG5D9quGqygf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
