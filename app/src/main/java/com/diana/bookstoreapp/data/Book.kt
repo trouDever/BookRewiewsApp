@@ -1,7 +1,8 @@
 package com.diana.bookstoreapp.data
 
 data class Book(
-    val name: String = "",
+    val key: String = "",
+    val title: String = "",
     val description: String = "",
     val grade: String = "",
     val category: String = "",
